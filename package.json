@@ -1,0 +1,10 @@
+{
+  "name": "passport-kakao-token",
+  "version": "0.1.0",
+  "description": "Kakao token authentication strategy for Passport",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.0.0"
+  }
+}
